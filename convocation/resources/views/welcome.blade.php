@@ -90,8 +90,7 @@
                                             Lorem Ipsum has been the industry's standard.
                                         </p>
                                         <ul class="carousel-btn rounded-buttons">
-                                            <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                                    STARTED</a></li>
+
                                             <li><a class="btn primary-btn-outline rounded-full"
                                                     href="javascript:void(0)">DOWNLOAD</a></li>
                                         </ul>
@@ -117,8 +116,7 @@
                                             Lorem Ipsum has been the industry's standard.
                                         </p>
                                         <ul class="carousel-btn rounded-buttons">
-                                            <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                                    STARTED</a></li>
+
                                             <li><a class="btn primary-btn-outline rounded-full"
                                                     href="javascript:void(0)">DOWNLOAD</a></li>
                                         </ul>
@@ -143,8 +141,7 @@
                         Lorem Ipsum has been the industry's standard.
                     </p>
                     <ul class="carousel-btn rounded-buttons">
-                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                STARTED</a></li>
+
                         <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
                     </ul>
                 </div>
@@ -165,8 +162,7 @@
                         Lorem Ipsum has been the industry's standard.
                     </p>
                     <ul class="carousel-btn rounded-buttons">
-                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                STARTED</a></li>
+
                         <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
                     </ul>
                 </div>
@@ -187,8 +183,7 @@
                         Lorem Ipsum has been the industry's standard.
                     </p>
                     <ul class="carousel-btn rounded-buttons">
-                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                STARTED</a></li>
+
                         <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
                     </ul>
                 </div>
@@ -209,8 +204,7 @@
                         Lorem Ipsum has been the industry's standard.
                     </p>
                     <ul class="carousel-btn rounded-buttons">
-                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                STARTED</a></li>
+
                         <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
                     </ul>
                 </div>
@@ -427,11 +421,59 @@
 </div>
 </div>
 
+</div>
 
+<!--====== ABOUT TWO PART ENDS ======-->
 
+<div class="tabs container">
+
+    <div class="single-tabs tabs-one">
+        <ul class="nav nav-justified" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" id="tab-one-one-tab" data-toggle="tab" href="#tab-one-one" role="tab"
+                    aria-controls="tab-one-one" aria-selected="true">TAB 01</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab-one-two-tab" data-toggle="tab" href="#tab-one-two" role="tab"
+                    aria-controls="tab-one-two" aria-selected="false">TAB 02</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab-one-three-tab" data-toggle="tab" href="#tab-one-three" role="tab"
+                    aria-controls="tab-one-three" aria-selected="false">TAB 03</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab-one-four-tab" data-toggle="tab" href="#tab-one-four" role="tab"
+                    aria-controls="tab-one-four" aria-selected="false">TAB 04</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="tab-one-one" role="tabpanel" aria-labelledby="tab-one-one-tab">
+                <div class="tab-text">
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="tab-one-two" role="tabpanel" aria-labelledby="tab-one-two-tab">
+                <div class="tab-text">
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="tab-one-three" role="tabpanel" aria-labelledby="tab-one-three-tab">
+                <div class="tab-text">
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="tab-one-four" role="tabpanel" aria-labelledby="tab-one-four-tab">
+                <div class="tab-text">
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- tabs one -->
+</div>
 
 <!-- accordion style two -->
-<!-- accordion style three -->
+
 
     <!-- Bootstrap and necessary JavaScript libraries -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
