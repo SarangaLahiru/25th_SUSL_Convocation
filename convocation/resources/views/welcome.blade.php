@@ -218,8 +218,9 @@
     </section>
     <!--====== FEATURE ONE PART ENDS ======-->
 
-<div class="relative left-0">
-    <!-- Start Section Title -->
+<div class="row">
+    <div class="col">
+        <!-- Start Section Title -->
     <div class="section-title-two container">
         <div class="row">
             <div class="col-lg-12">
@@ -287,6 +288,7 @@
         </div>
     </div>
     <!-- End Accordion Section -->
+    </div>
 </div>
 
 
