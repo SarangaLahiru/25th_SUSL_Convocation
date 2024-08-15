@@ -31,7 +31,7 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item bg_cover active"
-                        style="background-image: url(https://cdn.ayroui.com/1.0/images/slider/slider-one/1.jpg);">
+                        style="background-image: url('./img/AVU1445.JPG');">
                         <div class="carousel-caption">
                             <div class="container">
                                 <div class="row justify-content-center">
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                     <div class="carousel-item bg_cover"
-                        style="background-image: url(https://cdn.ayroui.com/1.0/images/slider/slider-one/2.jpg);">
+                        style="background-image: url('./img/AVU1499.JPG');">
                         <div class="carousel-caption">
                             <div class="container">
                                 <div class="row justify-content-center">
@@ -78,30 +78,95 @@
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item bg_cover"
-                        style="background-image: url(https://cdn.ayroui.com/1.0/images/slider/slider-one/3.jpg);">
-                        <div class="carousel-caption">
-                            <div class="container">
-                                <div class="row justify-content-center">
-                                    <div class="col-xl-6 col-lg-7 col-sm-10">
-                                        <h2 class="carousel-title">
-                                            Unlimited Friendly & Easy Customisable
-                                        </h2>
-                                        <p class="text">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard.
-                                        </p>
-                                        <ul class="carousel-btn rounded-buttons">
-                                            <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
-                                                    STARTED</a></li>
-                                            <li><a class="btn primary-btn-outline rounded-full"
-                                                    href="javascript:void(0)">DOWNLOAD</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <div class="carousel-item bg_cover" style="background-image: url('./img/AVU0989.JPG');">
+    <div class="carousel-caption">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-7 col-sm-10">
+                    <h2 class="carousel-title">
+                        Unlimited Friendly & Easy Customisable
+                    </h2>
+                    <p class="text">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's standard.
+                    </p>
+                    <ul class="carousel-btn rounded-buttons">
+                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
+                                STARTED</a></li>
+                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="carousel-item bg_cover" style="background-image: url('./img/AVU0981.JPG');">
+    <div class="carousel-caption">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-7 col-sm-10">
+                    <h2 class="carousel-title">
+                        Unlimited Friendly & Easy Customisable
+                    </h2>
+                    <p class="text">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's standard.
+                    </p>
+                    <ul class="carousel-btn rounded-buttons">
+                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
+                                STARTED</a></li>
+                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="carousel-item bg_cover" style="background-image: url('./img/AVU1523.JPG');">
+    <div class="carousel-caption">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-7 col-sm-10">
+                    <h2 class="carousel-title">
+                        Unlimited Friendly & Easy Customisable
+                    </h2>
+                    <p class="text">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's standard.
+                    </p>
+                    <ul class="carousel-btn rounded-buttons">
+                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
+                                STARTED</a></li>
+                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="carousel-item bg_cover" style="background-image: url('./img/AVU1499.JPG');">
+    <div class="carousel-caption">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-7 col-sm-10">
+                    <h2 class="carousel-title">
+                        Unlimited Friendly & Easy Customisable
+                    </h2>
+                    <p class="text">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's standard.
+                    </p>
+                    <ul class="carousel-btn rounded-buttons">
+                        <li><a class="btn primary-btn rounded-full" href="javascript:void(0)">GET
+                                STARTED</a></li>
+                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
                 </div>
                 <a class="carousel-control-prev" href="#carouselOne" role="button" data-slide="prev">
                     <i class="lni lni-chevron-left"></i>
