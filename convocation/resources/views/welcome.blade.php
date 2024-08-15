@@ -81,8 +81,10 @@
                                 <div class="row justify-content-center">
                                     <div class="col-xl-6 col-lg-7 col-sm-10">
                                         <h2 class="carousel-title">
-                                            25th General Convocation Sabaragamuwa University of Sri lanka
+                                            25th General Convocation
+
                                         </h2>
+                                        <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
                                         <p class="text">
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                             Lorem Ipsum has been the industry's standard.
@@ -104,9 +106,12 @@
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <div class="col-xl-6 col-lg-7 col-sm-10">
-                                        <h2 class="carousel-title">
-                                            Unlimited Friendly & Easy Customisable
+                                         <h2 class="carousel-title">
+                                            25th General Convocation
+
                                         </h2>
+                                        <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
+
                                         <p class="text">
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                             Lorem Ipsum has been the industry's standard.
@@ -128,8 +133,11 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-7 col-sm-10">
                     <h2 class="carousel-title">
-                        Unlimited Friendly & Easy Customisable
+                        25th General Convocation
+
                     </h2>
+                    <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
+
                     <p class="text">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard.
@@ -339,7 +347,7 @@
                     <div class="card">
                         <div class="card-header" id="headingSix">
                             <a href="#collapseSix" data-toggle="collapse" role="button" aria-expanded="true">
-                                Calling Applications for the Student of the Year Gold Medal - Faculty of Geomatics
+                                 Year Gold Medal - Faculty of Geomatics
                             </a>
                         </div>
                         <div id="collapseSix" class="collapse show" data-parent="#accordionTwo">
@@ -354,7 +362,7 @@
                     <div class="card">
                         <div class="card-header" id="headingSeven">
                             <a class="collapsed" href="#collapseSeven" data-toggle="collapse" role="button" aria-expanded="false">
-                                Calling Applications for the Student of the Year Gold Medal - Faculty of Applied Sciences
+                                Year Gold Medal - Faculty of Applied Sciences
                             </a>
                         </div>
                         <div id="collapseSeven" class="collapse" data-parent="#accordionTwo">
@@ -369,7 +377,7 @@
                     <div class="card">
                         <div class="card-header" id="headingEight">
                             <a class="collapsed" href="#collapseEight" data-toggle="collapse" role="button" aria-expanded="false">
-                                Calling Applications for the Student of the Year Gold Medal - Faculty of Computing
+                                 Year Gold Medal - Faculty of Computing
                             </a>
                         </div>
                         <div id="collapseEight" class="collapse" data-parent="#accordionTwo">
@@ -396,13 +404,13 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100 carousel-image" src="https://www.uwinnipeg.ca/convocation/images/convocation-fall-2022-1400x704.jpg" alt="First slide">
+                    <img class="d-block w-100 carousel-image" src="./img/_AVU1478.JPG" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 carousel-image" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Graduation_ceremony_with_Azim_Premji.JPG" alt="Second slide">
+                    <img class="d-block w-100 carousel-image" src="./img/_AVU1442.JPG" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 carousel-image" src="image3.jpg" alt="Third slide">
+                    <img class="d-block w-100 carousel-image" src="./img/AVU1445.JPG" alt="Third slide">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
