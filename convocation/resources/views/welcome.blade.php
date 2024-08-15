@@ -425,7 +425,7 @@
 
 <!--====== ABOUT TWO PART ENDS ======-->
 
-<div class="tabs container">
+<div class="tabs container p-5">
 
     <div class="single-tabs tabs-one">
         <ul class="nav nav-justified" id="myTab" role="tablist">
