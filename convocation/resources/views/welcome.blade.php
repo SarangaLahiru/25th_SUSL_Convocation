@@ -19,6 +19,50 @@
 </head>
 
 <body>
+    <style>
+        .carousel-image {
+            height: 500px; /* Set a consistent height for all images */
+            object-fit: cover; /* Ensures the image covers the whole area */
+            border-radius: 15px; /* Adds rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+        }
+
+        .carousel-inner {
+            border-radius: 15px; /* Ensures the inner area follows the same rounded corners */
+            overflow: hidden; /* Prevents image overflow */
+        }
+
+        .custom-prev, .custom-next {
+            width: 60px; /* Make the arrows larger */
+            height: 60px;
+            background: linear-gradient(45deg, #ff007f, #ff8c00); /* Add a gradient background */
+            border-radius: 50%; /* Make the arrows circular */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .custom-prev:hover, .custom-next:hover {
+            background: linear-gradient(45deg, #ff8c00, #ff007f); /* Reverse the gradient on hover */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Add a shadow on hover */
+        }
+
+        .custom-prev .carousel-control-prev-icon,
+        .custom-next .carousel-control-next-icon {
+            width: 20px; /* Adjust the arrow icon size */
+            height: 20px;
+            background-color: white; /* Make the arrow icon white */
+            border-radius: 50%;
+        }
+
+        .custom-prev {
+            left: -30px; /* Position the previous arrow outside the carousel */
+        }
+
+        .custom-next {
+            right: -30px; /* Position the next arrow outside the carousel */
+        }
+        </style>
     <div>
         <!--====== SLIDER ONE PART START ======-->
     <section class="slider-area slider-one">
@@ -352,13 +396,13 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="https://www.uwinnipeg.ca/convocation/images/convocation-fall-2022-1400x704.jpg" alt="First slide">
+                    <img class="d-block w-100 carousel-image" src="https://www.uwinnipeg.ca/convocation/images/convocation-fall-2022-1400x704.jpg" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="image2.jpg" alt="Second slide">
+                    <img class="d-block w-100 carousel-image" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Graduation_ceremony_with_Azim_Premji.JPG" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="image3.jpg" alt="Third slide">
+                    <img class="d-block w-100 carousel-image" src="image3.jpg" alt="Third slide">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
