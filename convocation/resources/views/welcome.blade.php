@@ -218,116 +218,81 @@
     </section>
     <!--====== FEATURE ONE PART ENDS ======-->
 
-<!--======  Start Section Title One ======-->
-<div class="section-title-two ">
-   <div class="container ">
-      <div class="row">
-         <div class="col-lg-12">
-            <div class="text-center m-5">
-               <div class="content ">
-                  <h2 class="fw-bold">Our Key Features</h2>
-                  <p>
-                     Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                     eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  </p>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- row -->
-   </div>
-   <!-- container -->
-</div>
-<!--====== ABOUT TWO PART ENDS ======-->
-
-    <div class="tabs">
-
-        <div class="single-tabs tabs-one">
-            <ul class="nav nav-justified" id="myTab" role="tablist">
-                <li class="nav-item">
-                    <a class="nav-link active" id="tab-one-one-tab" data-toggle="tab" href="#tab-one-one" role="tab"
-                        aria-controls="tab-one-one" aria-selected="true">TAB 01</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" id="tab-one-two-tab" data-toggle="tab" href="#tab-one-two" role="tab"
-                        aria-controls="tab-one-two" aria-selected="false">TAB 02</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" id="tab-one-three-tab" data-toggle="tab" href="#tab-one-three" role="tab"
-                        aria-controls="tab-one-three" aria-selected="false">TAB 03</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" id="tab-one-four-tab" data-toggle="tab" href="#tab-one-four" role="tab"
-                        aria-controls="tab-one-four" aria-selected="false">TAB 04</a>
-                </li>
-            </ul>
-            <div class="tab-content" id="myTabContent">
-                <div class="tab-pane fade show active" id="tab-one-one" role="tabpanel"
-                    aria-labelledby="tab-one-one-tab">
-                    <div class="tab-text">
-                        <p class="text">
-                             denim you probably haven’t heard of them jean shorts
-                            Austin. Nesciunt tofu stumptown aliqua, retro synth
-                            master cleanse. Mustache cliche tempor, williamsburg
-                            carles vegan helvetica. Reprehenderit butcher retro
-                            keffiyeh dreamcatcher synth. <br /><br />
-                            Cosby sweater eu banh mi, qui irure terry richardson ex
-                            squid. Aliquip placeat salvia cillum iphone. Seitan
-                            aliquip quis cardigan american apparel, butcher
-                            voluptate nisi qui.
-                        </p>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="tab-one-two" role="tabpanel" aria-labelledby="tab-one-two-tab">
-                    <div class="tab-text">
-                        <p class="text">
-                            Raw denim you probably haven’t heard of them jean shorts
-                            Austin. Nesciunt tofu stumptown aliqua, retro synth
-                            master cleanse. Mustache cliche tempor, williamsburg
-                            carles vegan helvetica. Reprehenderit butcher retro
-                            keffiyeh dreamcatcher synth. <br /><br />
-                            Cosby sweater eu banh mi, qui irure terry richardson ex
-                            squid. Aliquip placeat salvia cillum iphone. Seitan
-                            aliquip quis cardigan american apparel, butcher
-                            voluptate nisi qui.
-                        </p>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="tab-one-three" role="tabpanel" aria-labelledby="tab-one-three-tab">
-                    <div class="tab-text">
-                        <p class="text">
-                            Raw denim you probably haven’t heard of them jean shorts
-                            Austin. Nesciunt tofu stumptown aliqua, retro synth
-                            master cleanse. Mustache cliche tempor, williamsburg
-                            carles vegan helvetica. Reprehenderit butcher retro
-                            keffiyeh dreamcatcher synth. <br /><br />
-                            Cosby sweater eu banh mi, qui irure terry richardson ex
-                            squid. Aliquip placeat salvia cillum iphone. Seitan
-                            aliquip quis cardigan american apparel, butcher
-                            voluptate nisi qui.
-                        </p>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="tab-one-four" role="tabpanel" aria-labelledby="tab-one-four-tab">
-                    <div class="tab-text">
-                        <p class="text">
-                            Raw denim you probably haven’t heard of them jean shorts
-                            Austin. Nesciunt tofu stumptown aliqua, retro synth
-                            master cleanse. Mustache cliche tempor, williamsburg
-                            carles vegan helvetica. Reprehenderit butcher retro
-                            keffiyeh dreamcatcher synth. <br /><br />
-                            Cosby sweater eu banh mi, qui irure terry richardson ex
-                            squid. Aliquip placeat salvia cillum iphone. Seitan
-                            aliquip quis cardigan american apparel, butcher
-                            voluptate nisi qui.
-                        </p>
+<div class="relative left-0">
+    <!-- Start Section Title -->
+    <div class="section-title-two container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="text-center m-5">
+                    <div class="content">
+                        <h2 class="fw-bold">Calling Applications for the Student of the Year Gold Medal</h2>
+                        <p>Calling Applications for the Student of the Year Gold Medal</p>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- tabs one -->
     </div>
+    <!-- End Section Title -->
+
+    <!-- Start Accordion Section -->
+    <div class="single-accordion container w-50">
+        <div class="accordion-style-two">
+            <div class="accordion" id="accordionTwo">
+                <!-- Card 1 -->
+                <div class="card">
+                    <div class="card-header" id="headingSix">
+                        <a href="#collapseSix" data-toggle="collapse" role="button" aria-expanded="true">
+                            Calling Applications for the Student of the Year Gold Medal - Faculty of Geomatics
+                        </a>
+                    </div>
+                    <div id="collapseSix" class="collapse show" data-parent="#accordionTwo">
+                        <div class="card-body">
+                            <p class="text">
+                                Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 2 -->
+                <div class="card">
+                    <div class="card-header" id="headingSeven">
+                        <a class="collapsed" href="#collapseSeven" data-toggle="collapse" role="button" aria-expanded="false">
+                            Calling Applications for the Student of the Year Gold Medal - Faculty of Applied Sciences
+                        </a>
+                    </div>
+                    <div id="collapseSeven" class="collapse" data-parent="#accordionTwo">
+                        <div class="card-body">
+                            <p class="text">
+                                Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 3 -->
+                <div class="card">
+                    <div class="card-header" id="headingEight">
+                        <a class="collapsed" href="#collapseEight" data-toggle="collapse" role="button" aria-expanded="false">
+                            Calling Applications for the Student of the Year Gold Medal - Faculty of Computing
+                        </a>
+                    </div>
+                    <div id="collapseEight" class="collapse" data-parent="#accordionTwo">
+                        <div class="card-body">
+                            <p class="text">
+                                Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+    <!-- End Accordion Section -->
+</div>
+
+
+
+<!-- accordion style two -->
+<!-- accordion style three -->
 
     <!-- Bootstrap and necessary JavaScript libraries -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
