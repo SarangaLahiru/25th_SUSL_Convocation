@@ -1,5 +1,5 @@
 
-# 🎓 25th SUSL Convocation Management System
+# 🎓 25th SUSL Convocation
 
 ![Screenshot of the Application](https://firebasestorage.googleapis.com/v0/b/exe2-96fd1.appspot.com/o/Screenshot%202024-08-15%20143900.png?alt=media&token=eb9a3fc4-4ae3-4f78-b8df-ff721d5f2f36)
 
