@@ -218,78 +218,98 @@
     </section>
     <!--====== FEATURE ONE PART ENDS ======-->
 
-<div class="row">
-    <div class="col">
-        <!-- Start Section Title -->
-    <div class="section-title-two container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="text-center m-5">
-                    <div class="content">
-                        <h2 class="fw-bold">Calling Applications for the Student of the Year Gold Medal</h2>
-                        <p>Calling Applications for the Student of the Year Gold Medal</p>
+<div class="container p-5">
+    <div class="row">
+    <div class="col-lg-4">
+        <h3>Calling Applications for the Gold Medal</h3>
+        <!-- Start Accordion Section -->
+        <div class="single-accordion">
+            <div class="accordion-style-two">
+                <div class="accordion" id="accordionTwo">
+                    <!-- Card 1 -->
+                    <div class="card">
+                        <div class="card-header" id="headingSix">
+                            <a href="#collapseSix" data-toggle="collapse" role="button" aria-expanded="true">
+                                Calling Applications for the Student of the Year Gold Medal - Faculty of Geomatics
+                            </a>
+                        </div>
+                        <div id="collapseSix" class="collapse show" data-parent="#accordionTwo">
+                            <div class="card-body">
+                                <p class="text">
+                                    Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 2 -->
+                    <div class="card">
+                        <div class="card-header" id="headingSeven">
+                            <a class="collapsed" href="#collapseSeven" data-toggle="collapse" role="button" aria-expanded="false">
+                                Calling Applications for the Student of the Year Gold Medal - Faculty of Applied Sciences
+                            </a>
+                        </div>
+                        <div id="collapseSeven" class="collapse" data-parent="#accordionTwo">
+                            <div class="card-body">
+                                <p class="text">
+                                    Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 3 -->
+                    <div class="card">
+                        <div class="card-header" id="headingEight">
+                            <a class="collapsed" href="#collapseEight" data-toggle="collapse" role="button" aria-expanded="false">
+                                Calling Applications for the Student of the Year Gold Medal - Faculty of Computing
+                            </a>
+                        </div>
+                        <div id="collapseEight" class="collapse" data-parent="#accordionTwo">
+                            <div class="card-body">
+                                <p class="text">
+                                    Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- End Accordion Section -->
     </div>
-    <!-- End Section Title -->
 
-    <!-- Start Accordion Section -->
-    <div class="single-accordion container w-50">
-        <div class="accordion-style-two">
-            <div class="accordion" id="accordionTwo">
-                <!-- Card 1 -->
-                <div class="card">
-                    <div class="card-header" id="headingSix">
-                        <a href="#collapseSix" data-toggle="collapse" role="button" aria-expanded="true">
-                            Calling Applications for the Student of the Year Gold Medal - Faculty of Geomatics
-                        </a>
-                    </div>
-                    <div id="collapseSix" class="collapse show" data-parent="#accordionTwo">
-                        <div class="card-body">
-                            <p class="text">
-                                Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
-                            </p>
-                        </div>
-                    </div>
+    <div class="col-lg-8">
+        <!-- Start Image Slider -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="https://www.uwinnipeg.ca/convocation/images/convocation-fall-2022-1400x704.jpg" alt="First slide">
                 </div>
-                <!-- Card 2 -->
-                <div class="card">
-                    <div class="card-header" id="headingSeven">
-                        <a class="collapsed" href="#collapseSeven" data-toggle="collapse" role="button" aria-expanded="false">
-                            Calling Applications for the Student of the Year Gold Medal - Faculty of Applied Sciences
-                        </a>
-                    </div>
-                    <div id="collapseSeven" class="collapse" data-parent="#accordionTwo">
-                        <div class="card-body">
-                            <p class="text">
-                                Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
-                            </p>
-                        </div>
-                    </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="image2.jpg" alt="Second slide">
                 </div>
-                <!-- Card 3 -->
-                <div class="card">
-                    <div class="card-header" id="headingEight">
-                        <a class="collapsed" href="#collapseEight" data-toggle="collapse" role="button" aria-expanded="false">
-                            Calling Applications for the Student of the Year Gold Medal - Faculty of Computing
-                        </a>
-                    </div>
-                    <div id="collapseEight" class="collapse" data-parent="#accordionTwo">
-                        <div class="card-body">
-                            <p class="text">
-                                Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
-                            </p>
-                        </div>
-                    </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="image3.jpg" alt="Third slide">
                 </div>
             </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
-    </div>
-    <!-- End Accordion Section -->
+        <!-- End Image Slider -->
     </div>
 </div>
+</div>
+
 
 
 
