@@ -132,8 +132,7 @@
                                         </h2>
                                         <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
                                         <p class="text">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard.
+                                            25th General Convocation of the Sabaragamuwa University of Sri Lanka will be held on 12th and 13th of September 2024 at SUSL.
                                         </p>
 
                                     </div>
@@ -154,8 +153,7 @@
                                         <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
 
                                         <p class="text">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard.
+                                            25th General Convocation of the Sabaragamuwa University of Sri Lanka will be held on 12th and 13th of September 2024 at SUSL.
                                         </p>
 
                                     </div>
@@ -175,8 +173,7 @@
                     <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
 
                     <p class="text">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard.
+                        25th General Convocation of the Sabaragamuwa University of Sri Lanka will be held on 12th and 13th of September 2024 at SUSL.
                     </p>
 
                 </div>
@@ -196,8 +193,7 @@
                     <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
 
                     <p class="text">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard.
+                        25th General Convocation of the Sabaragamuwa University of Sri Lanka will be held on 12th and 13th of September 2024 at SUSL.
                     </p>
 
                 </div>
@@ -217,8 +213,7 @@
                     <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
 
                     <p class="text">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard.
+                        25th General Convocation of the Sabaragamuwa University of Sri Lanka will be held on 12th and 13th of September 2024 at SUSL.
                     </p>
                 </div>
             </div>
@@ -237,8 +232,7 @@
                     <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
 
                     <p class="text">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard.
+                        25th General Convocation of the Sabaragamuwa University of Sri Lanka will be held on 12th and 13th of September 2024 at SUSL.
                     </p>
                 </div>
             </div>
@@ -445,62 +439,31 @@
 
 <div class="container p-5">
     <div class="row">
-    <div class="col-lg-4">
-        <h3>Calling Applications for the Gold Medal</h3>
-        <!-- Start Accordion Section -->
-        <div class="single-accordion">
-            <div class="accordion-style-two">
-                <div class="accordion" id="accordionTwo">
-                    <!-- Card 1 -->
-                    <div class="card">
-                        <div class="card-header" id="headingSix">
-                            <a href="#collapseSix" data-toggle="collapse" role="button" aria-expanded="true">
-                                 Year Gold Medal - Faculty of Geomatics
-                            </a>
-                        </div>
-                        <div id="collapseSix" class="collapse show" data-parent="#accordionTwo">
-                            <div class="card-body">
-                                <p class="text">
-                                    Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
-                                </p>
+        <div class="col-lg-4 text-center">
+            <div class="card shadow-lg border-0 rounded-lg">
+                <div class="card-body p-4">
+                    <h4 class="primary font-weight-bold mb-2">Student of the Year Gold Medal</h4>
+                    <h3 class="text-secondary mb-4">Call for Applications</h3>
+
+                    <!-- Start Accordion Section -->
+                    <div class="single-accordion">
+                        <div class="accordion-style-two">
+                            <div class="accordion" id="accordionTwo">
+
+                                <div class="text-center mb-4">
+                                    <img src="./img/gold.png" alt="Gold Medal" class=" " style="max-width: 80%; height: auto;">
+                                    <div class="mt-3">
+                                        <a href="https://www.sab.ac.lk/sites/default/files/events/Student%20of%20the%20Year%20Gold%20Medal.pdf" class="btn btn-primar btn-sm px-4 py-2 mt-2 shadow " style="background-color: #520103; color: #fff; border: none;">View More</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <!-- Card 2 -->
-                    <div class="card">
-                        <div class="card-header" id="headingSeven">
-                            <a class="collapsed" href="#collapseSeven" data-toggle="collapse" role="button" aria-expanded="false">
-                                Year Gold Medal - Faculty of Applied Sciences
-                            </a>
-                        </div>
-                        <div id="collapseSeven" class="collapse" data-parent="#accordionTwo">
-                            <div class="card-body">
-                                <p class="text">
-                                    Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Card 3 -->
-                    <div class="card">
-                        <div class="card-header" id="headingEight">
-                            <a class="collapsed" href="#collapseEight" data-toggle="collapse" role="button" aria-expanded="false">
-                                 Year Gold Medal - Faculty of Computing
-                            </a>
-                        </div>
-                        <div id="collapseEight" class="collapse" data-parent="#accordionTwo">
-                            <div class="card-body">
-                                <p class="text">
-                                    Raw denim you probably haven’t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- End Accordion Section -->
                 </div>
             </div>
         </div>
-        <!-- End Accordion Section -->
-    </div>
+
 
     <div class="col-lg-8">
         <!-- Start Image Slider -->
