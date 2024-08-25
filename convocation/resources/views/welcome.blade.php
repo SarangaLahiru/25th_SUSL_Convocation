@@ -7,11 +7,21 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Convocation Details</title>
 
+    <!-- Add this to your head tag -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Add this before the closing body tag -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
     <!--====== Bootstrap CSS ======-->
     <link rel="stylesheet" href="https://cdn.ayroui.com/1.0/css/bootstrap.min.css" />
 
     <!--====== Lineicons CSS ======-->
     <link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
+    <!-- Include Font Awesome for icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
 
     <!--====== Style css ======-->
     <link rel="stylesheet" href="https://cdn.ayroui.com/1.0/css/starter.css" />
@@ -20,6 +30,39 @@
 
 <body>
     <style>
+        .custom-control-prev, .custom-control-next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            text-decoration: none;
+            z-index: 10;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .custom-control-prev:hover, .custom-control-next:hover {
+            background-color: rgba(0, 0, 0, 0.7);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .custom-control-prev {
+            left: 20px;
+        }
+
+        .custom-control-next {
+            right: 20px;
+        }
+
+        .custom-control-prev i, .custom-control-next i {
+            font-size: 24px;
+        }
         .carousel-image {
             height: 500px; /* Set a consistent height for all images */
             object-fit: cover; /* Ensures the image covers the whole area */
@@ -92,11 +135,7 @@
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                             Lorem Ipsum has been the industry's standard.
                                         </p>
-                                        <ul class="carousel-btn rounded-buttons">
 
-                                            <li><a class="btn primary-btn-outline rounded-full"
-                                                    href="javascript:void(0)">DOWNLOAD</a></li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -118,11 +157,7 @@
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                             Lorem Ipsum has been the industry's standard.
                                         </p>
-                                        <ul class="carousel-btn rounded-buttons">
 
-                                            <li><a class="btn primary-btn-outline rounded-full"
-                                                    href="javascript:void(0)">DOWNLOAD</a></li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -143,10 +178,7 @@
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard.
                     </p>
-                    <ul class="carousel-btn rounded-buttons">
 
-                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -158,16 +190,16 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-7 col-sm-10">
                     <h2 class="carousel-title">
-                        Unlimited Friendly & Easy Customisable
+                        25th General Convocation
+
                     </h2>
+                    <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
+
                     <p class="text">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard.
                     </p>
-                    <ul class="carousel-btn rounded-buttons">
 
-                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -179,16 +211,15 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-7 col-sm-10">
                     <h2 class="carousel-title">
-                        Unlimited Friendly & Easy Customisable
+                        25th General Convocation
+
                     </h2>
+                    <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
+
                     <p class="text">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard.
                     </p>
-                    <ul class="carousel-btn rounded-buttons">
-
-                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -200,16 +231,15 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-7 col-sm-10">
                     <h2 class="carousel-title">
-                        Unlimited Friendly & Easy Customisable
+                        25th General Convocation
+
                     </h2>
+                    <h4 style="color:white">Sabaragamuwa University of Sri lanka</h4>
+
                     <p class="text">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard.
                     </p>
-                    <ul class="carousel-btn rounded-buttons">
-
-                        <li><a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">DOWNLOAD</a></li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -244,88 +274,169 @@
             </div>
             <!-- row -->
             <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-7 col-sm-9">
-                    <div class="features-style-one text-center">
-                        <div class="features-icon">
-                            <i class="lni lni-compass"></i>
-                        </div>
-                        <div class="features-content">
-                            <h4 class="features-title">Faculty of Applied Sciences</h4>
-                            <p class="text">
-                                Short description for the ones who look for something new.
-                                Awesome!
-                            </p>
-                            <div class="features-btn rounded-buttons">
-                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">
-                                    Register!
-                                </a>
+                <div id="facultyCarousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-compass"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Applied Sciences</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-construction"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Geomatics</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-cup"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Computing</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
-                    </div>
-                    <!-- single features -->
-                </div>
-                <div class="col-lg-3 col-md-7 col-sm-9">
-                    <div class="features-style-one text-center">
-                        <div class="features-icon">
-                            <i class="lni lni-construction"></i>
-                        </div>
-                        <div class="features-content">
-                            <h4 class="features-title">Faculty of Geomatics</h4>
-                            <p class="text">
-                                Short description for the ones who look for something new.
-                                Awesome!
-                            </p>
-                            <div class="features-btn rounded-buttons">
-                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">
-                                    Register!
-                                </a>
+                        <div class="carousel-item ">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-compass"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Management Studies</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-construction"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Social Sciences & Languages</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-cup"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Agricultural Sciences</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
-                    </div>
-                    <!-- single features -->
-                </div>
-                <div class="col-lg-3 col-md-7 col-sm-9">
-                    <div class="features-style-one text-center">
-                        <div class="features-icon">
-                            <i class="lni lni-cup"></i>
-                        </div>
-                        <div class="features-content">
-                            <h4 class="features-title">Faculty of Computing</h4>
-                            <p class="text">
-                                Short description for the ones who look for something new.
-                                Awesome!
-                            </p>
-                            <div class="features-btn rounded-buttons">
-                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">
-                                    Register!
-                                </a>
+                        <div class="carousel-item ">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-compass"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Technology</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-construction"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Medicines</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-7 col-sm-9">
+                                    <div class="features-style-one text-center">
+                                        <div class="features-icon">
+                                            <i class="lni lni-cup"></i>
+                                        </div>
+                                        <div class="features-content">
+                                            <h4 class="features-title">Faculty of Computing</h4>
+                                            <p class="text">Explore diverse programs and research opportunities!</p>
+                                            <div class="features-btn rounded-buttons">
+                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
+
+
+
+
                     </div>
-                    <!-- single features -->
+                    <!-- Carousel Controls -->
+                    <a class="carousel-control-prev custom-control-prev" href="#facultyCarousel" role="button" data-slide="prev">
+                        <i class="fas fa-chevron-left"></i>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next custom-control-next" href="#facultyCarousel" role="button" data-slide="next">
+                        <i class="fas fa-chevron-right"></i>
+                        <span class="sr-only">Next</span>
+                    </a>
+
                 </div>
-                <div class="col-lg-3 col-md-7 col-sm-9">
-                    <div class="features-style-one text-center">
-                        <div class="features-icon">
-                            <i class="lni lni-cup"></i>
-                        </div>
-                        <div class="features-content">
-                            <h4 class="features-title">Faculty of Graduate Studies</h4>
-                            <p class="text">
-                                Short description for the ones who look for something new.
-                                Awesome!
-                            </p>
-                            <div class="features-btn rounded-buttons">
-                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">
-                                    Register!
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single features -->
-                </div>
+
             </div>
             <!-- row -->
+
 
         </div>
         <!-- container -->
