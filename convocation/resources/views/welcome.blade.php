@@ -350,7 +350,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-cup"></i>
+                                            <i class="lni lni-capsule"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Agricultural Sciences</h4>
