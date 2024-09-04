@@ -275,7 +275,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center ">
                                         <div class="features-icon">
-                                            <i class="lni lni-compass"></i>
+                                            <i class="fa fa-flask"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title" style="width: 280px">Faculty of Applied Sciences</h4>
@@ -289,7 +289,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center" >
                                         <div class="features-icon">
-                                            <i class="lni lni-construction"></i>
+                                            <i class="fa fa-map"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Geomatics</h4>
@@ -303,7 +303,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-cup"></i>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Computing</h4>
@@ -322,7 +322,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-compass"></i>
+                                            <i class="fa fa-university"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Management Studies</h4>
@@ -336,7 +336,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-construction"></i>
+                                            <i class="fa fa-language"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Social Sciences & Languages</h4>
@@ -350,7 +350,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-capsule"></i>
+                                            <i class="fa fa-leaf"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Agricultural Sciences</h4>
@@ -369,7 +369,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-compass"></i>
+                                            <i class="fa fa-cogs"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Technology</h4>
@@ -383,7 +383,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-construction"></i>
+                                            <i class="fa fa-heartbeat"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Medicines</h4>
@@ -397,7 +397,7 @@
                                 <div class="col-lg-3 col-md-7 col-sm-9">
                                     <div class="features-style-one text-center">
                                         <div class="features-icon">
-                                            <i class="lni lni-cup"></i>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                         <div class="features-content">
                                             <h4 class="features-title">Faculty of Computing</h4>
@@ -518,6 +518,10 @@
                 <a class="nav-link" id="tab-one-three-tab" data-toggle="tab" href="#tab-one-three" role="tab"
                     aria-controls="tab-one-three" aria-selected="false">NOTICE 03</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab-one-four-tab" data-toggle="tab" href="#tab-one-four" role="tab"
+                    aria-controls="tab-one-four" aria-selected="false">NOTICE 04</a>
+            </li>
 
         </ul>
         <div class="tab-content" id="myTabContent">
@@ -534,6 +538,11 @@
             <div class="tab-pane fade" id="tab-one-three" role="tabpanel" aria-labelledby="tab-one-three-tab">
                 <div class="tab-text">
                     <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="tab-one-four" role="tabpanel" aria-labelledby="tab-one-four-tab">
+                <div class="tab-text">
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Convocation%20Tabloid%20Phase%20-%20II-min.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
 
