@@ -281,7 +281,7 @@
                                             <h4 class="features-title" style="width: 280px">Faculty of Applied Sciences</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/app">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -295,7 +295,7 @@
                                             <h4 class="features-title">Faculty of Geomatics</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/geo/">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -309,7 +309,7 @@
                                             <h4 class="features-title">Faculty of Computing</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/computing/">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -328,7 +328,7 @@
                                             <h4 class="features-title">Faculty of Management Studies</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/mgmt/">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -342,7 +342,7 @@
                                             <h4 class="features-title">Faculty of Social Sciences & Languages</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/fssl">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -356,7 +356,7 @@
                                             <h4 class="features-title">Faculty of Agricultural Sciences</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/agri">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -375,7 +375,7 @@
                                             <h4 class="features-title">Faculty of Technology</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/tech/">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -403,7 +403,7 @@
                                             <h4 class="features-title">Faculty of Computing</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/computing">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -508,30 +508,27 @@
         <ul class="nav nav-justified" id="myTab" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" id="tab-one-one-tab" data-toggle="tab" href="#tab-one-one" role="tab"
-                    aria-controls="tab-one-one" aria-selected="true">TAB 01</a>
+                    aria-controls="tab-one-one" aria-selected="true">NOTICE 01</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" id="tab-one-two-tab" data-toggle="tab" href="#tab-one-two" role="tab"
-                    aria-controls="tab-one-two" aria-selected="false">TAB 02</a>
+                    aria-controls="tab-one-two" aria-selected="false">NOTICE 02</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" id="tab-one-three-tab" data-toggle="tab" href="#tab-one-three" role="tab"
-                    aria-controls="tab-one-three" aria-selected="false">TAB 03</a>
+                    aria-controls="tab-one-three" aria-selected="false">NOTICE 03</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" id="tab-one-four-tab" data-toggle="tab" href="#tab-one-four" role="tab"
-                    aria-controls="tab-one-four" aria-selected="false">TAB 04</a>
-            </li>
+
         </ul>
         <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="tab-one-one" role="tabpanel" aria-labelledby="tab-one-one-tab">
                 <div class="tab-text">
-                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Notice-Calling%20Applications%20for%20the%20Student%20of%20the%20Year%20Gold%20Medal%20-%20Faculty%20of%20Geomatics.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
             <div class="tab-pane fade" id="tab-one-two" role="tabpanel" aria-labelledby="tab-one-two-tab">
                 <div class="tab-text">
-                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Notice%20for%20Graduands%20-%20Convocation%20Session%20Details%20in%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
             <div class="tab-pane fade" id="tab-one-three" role="tabpanel" aria-labelledby="tab-one-three-tab">
@@ -539,11 +536,7 @@
                     <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
-            <div class="tab-pane fade" id="tab-one-four" role="tabpanel" aria-labelledby="tab-one-four-tab">
-                <div class="tab-text">
-                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
-                </div>
-            </div>
+
         </div>
     </div>
     <!-- tabs one -->
