@@ -273,12 +273,12 @@
                         <div class="carousel-item active">
                             <div class="row justify-content-center">
                                 <div class="col-lg-3 col-md-7 col-sm-9">
-                                    <div class="features-style-one text-center">
+                                    <div class="features-style-one text-center ">
                                         <div class="features-icon">
                                             <i class="lni lni-compass"></i>
                                         </div>
                                         <div class="features-content">
-                                            <h4 class="features-title">Faculty of Applied Sciences</h4>
+                                            <h4 class="features-title" style="width: 280px">Faculty of Applied Sciences</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
                                                 <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
@@ -287,7 +287,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-7 col-sm-9">
-                                    <div class="features-style-one text-center">
+                                    <div class="features-style-one text-center" >
                                         <div class="features-icon">
                                             <i class="lni lni-construction"></i>
                                         </div>
@@ -451,7 +451,7 @@
                             <div class="accordion" id="accordionTwo">
 
                                 <div class="text-center mb-4">
-                                    <img src="./img/gold.png" alt="Gold Medal" class=" " style="max-width: 80%; height: auto;">
+                                    <img src="./img/gold.png" alt="Gold Medal" class=" " style="max-width: 70%;">
                                     <div class="mt-3">
                                         <a href="https://www.sab.ac.lk/sites/default/files/events/Student%20of%20the%20Year%20Gold%20Medal.pdf" class="btn btn-primar btn-sm px-4 py-2 mt-2 shadow " style="background-color: #520103; color: #fff; border: none;">View More</a>
                                     </div>
@@ -475,7 +475,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100 carousel-image" src="./img/_AVU1478.JPG" alt="First slide">
+                    <img class="d-block w-100 carousel-image" style="height: 150%" src="./img/_AVU1478.JPG" alt="First slide">
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-100 carousel-image" src="./img/_AVU1442.JPG" alt="Second slide">
