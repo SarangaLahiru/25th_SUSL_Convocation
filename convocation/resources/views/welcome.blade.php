@@ -389,7 +389,7 @@
                                             <h4 class="features-title">Faculty of Medicines</h4>
                                             <p class="text">Explore diverse programs and research opportunities!</p>
                                             <div class="features-btn rounded-buttons">
-                                                <a class="btn primary-btn-outline rounded-full" href="javascript:void(0)">View more!</a>
+                                                <a class="btn primary-btn-outline rounded-full" href="https://www.sab.ac.lk/med/">View more!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -518,38 +518,42 @@
                 <a class="nav-link" id="tab-one-three-tab" data-toggle="tab" href="#tab-one-three" role="tab"
                     aria-controls="tab-one-three" aria-selected="false">NOTICE 03</a>
             </li>
-            <li class="nav-item">
+            {{--  <li class="nav-item">
                 <a class="nav-link" id="tab-one-four-tab" data-toggle="tab" href="#tab-one-four" role="tab"
                     aria-controls="tab-one-four" aria-selected="false">NOTICE 04</a>
-            </li>
+            </li>  --}}
 
         </ul>
         <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="tab-one-one" role="tabpanel" aria-labelledby="tab-one-one-tab">
                 <div class="tab-text">
-                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Notice-Calling%20Applications%20for%20the%20Student%20of%20the%20Year%20Gold%20Medal%20-%20Faculty%20of%20Geomatics.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/events/convocation-notice.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
             <div class="tab-pane fade" id="tab-one-two" role="tabpanel" aria-labelledby="tab-one-two-tab">
                 <div class="tab-text">
-                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Notice%20for%20Graduands%20-%20Convocation%20Session%20Details%20in%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/events/graduands%20registration.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
             <div class="tab-pane fade" id="tab-one-three" role="tabpanel" aria-labelledby="tab-one-three-tab">
                 <div class="tab-text">
-                    <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Issuing%20of%20Cloaks%2C%20Registration%20for%20Photographs%20and%20Submission%20of%20Payment%20Receipt%20-%20Phase%20II.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
+                    <iframe src="https://www.sab.ac.lk/sites/default/files/events/notice%20social-08282024145738.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
             </div>
-            <div class="tab-pane fade" id="tab-one-four" role="tabpanel" aria-labelledby="tab-one-four-tab">
+            {{--  <div class="tab-pane fade" id="tab-one-four" role="tabpanel" aria-labelledby="tab-one-four-tab">
                 <div class="tab-text">
                     <iframe src="https://www.sab.ac.lk/sites/default/files/convocation/Convocation%20Tabloid%20Phase%20-%20II-min.pdf" frameborder="0" style="width: 100%; height: 100vh;"></iframe>
                 </div>
-            </div>
+            </div>  --}}
 
         </div>
     </div>
     <!-- tabs one -->
 </div>
+<a href="https://www.sab.ac.lk/25th_general_convocation" class="btn btn-primary rounded-full fixed"
+    style="background-color: #520103; color: #fff; position: fixed; bottom: 20px; left: 20px; z-index: 1000;">
+    <i class="fas fa-arrow-left"></i>
+</a>
 
 <!-- accordion style two -->
 
